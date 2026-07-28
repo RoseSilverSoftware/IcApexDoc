@@ -1,6 +1,7 @@
 # Release Notes
 
-* [1.0.1.6](#1015)
+* [1.0.1.7](#1017)
+* [1.0.1.6](#1016)
 * [1.0.1.5](#1015)
 * [1.0.1.4](#1014)
 * [1.0.1.3](#1013)
@@ -16,6 +17,10 @@
 * [1.0.0.3](#1003)
 * [1.0.0.2](#1002)
 * [1.0.0.1](#1001)
+
+## [1.0.1.7](https://github.com/SCWells72/IcApexDoc/releases/tag/1.0.1.7)
+
+* [Issue 19](https://github.com/SCWells72/IcApexDoc/issues/19) - Integrated the same fixes from Illuminated Cloud issue [2995](https://github.com/RoseSilverSoftware/IlluminatedCloud/issues/2995) into IcApexDoc.
 
 ## [1.0.1.6](https://github.com/SCWells72/IcApexDoc/releases/tag/1.0.1.6)
 
