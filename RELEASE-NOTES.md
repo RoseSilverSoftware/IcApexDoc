@@ -1,5 +1,6 @@
 # Release Notes
 
+* [1.0.1.8](#1018)
 * [1.0.1.7](#1017)
 * [1.0.1.6](#1016)
 * [1.0.1.5](#1015)
@@ -17,6 +18,11 @@
 * [1.0.0.3](#1003)
 * [1.0.0.2](#1002)
 * [1.0.0.1](#1001)
+
+## [1.0.1.8](https://github.com/SCWells72/IcApexDoc/releases/tag/1.0.1.9)
+
+* Updated standard API documentation URLs for Winter '27.
+* Integrated the same fixes from Illuminated Cloud issue [3019](https://github.com/RoseSilverSoftware/IlluminatedCloud/issues/3019) into IcApexDoc.
 
 ## [1.0.1.7](https://github.com/SCWells72/IcApexDoc/releases/tag/1.0.1.7)
 
